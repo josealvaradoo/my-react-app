@@ -1,0 +1,8 @@
+{
+    "courses": [
+        { "id": 1, "name": "React desde cero", "teacher": "John Mircha", "date":"14/04/2017"},
+        { "id": 2, "name": "Javascript desde cero", "teacher": "Alvaro Felipe", "date":"14/04/2017"},
+        { "id": 3, "name": "Laravel desde cero", "teacher": "Daniel Romero", "date":"14/04/2017"},
+        { "id": 4, "name": "Go desde cero", "teacher": "Alexys Lozada", "date":"14/04/2017"}
+    ]
+}
